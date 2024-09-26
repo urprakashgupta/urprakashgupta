@@ -17,6 +17,40 @@
 ![](https://github-readme-stats.vercel.app/api?username=urprakashgupta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urprakashgupta&theme=tokyonight&hide_border=false)<br/>
 
+<!-- Technologies that I'm working with -->
+
+## ⚡️ Tech-Stack
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px align="top"/> &nbsp;&nbsp;Languages:
+
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" />
+</p>
+</div>
+
+### 🧩 &nbsp;&nbsp;Libraries & Frameworks :
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express&theme=dark" />
+</p>
+
+
+### 🗄️ &nbsp;Databases:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres&theme=dark" />
+</p>
+
+### 🛠️ &nbsp;Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark" />
+</p>
+
+<br/><br/>
+
 
 <!-- GitHub Stats -->
 
@@ -24,7 +58,7 @@
 
 <br/>
 <p align="center">
-  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urprakashgupta&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+  <img alt="Prakash Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urprakashgupta&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
 <p/>
 
 <p align="center">
