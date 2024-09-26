@@ -9,4 +9,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urprakashgupta&theme=tokyonight&hide_border=false)<br/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- GitHub Stats -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
+
+<br/>
+<p align="center">
+  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urprakashgupta&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+<p/>
+
+<p align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<br/>
